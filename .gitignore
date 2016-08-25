@@ -1,0 +1,9 @@
+# can also do
+# */Binaries
+# to ignore all Binaries folders ?
+
+BuildingEscape/Binaries/
+BuildingEscape/Build/
+BuildingEscape/Intermediate/
+BuildingEscape/Saved/
+BuildingEscape/DerivedDataCache/
